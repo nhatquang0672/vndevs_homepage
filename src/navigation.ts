@@ -4,7 +4,7 @@ export const headerData = {
   links: [
     {
       text: 'Solutions',
-      href: getPermalink('/services'),
+      href: getPermalink('/solutions'),
     },
     {
       text: 'Services',
@@ -23,7 +23,7 @@ export const headerData = {
           href: getPermalink('/homes/mobile-app'),
         },
         {
-          text: 'Software-as-Service',
+          text: 'SAAS',
           href: getPermalink('/homes/saas'),
         },
         // {
