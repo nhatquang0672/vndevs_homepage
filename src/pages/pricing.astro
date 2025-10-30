@@ -17,98 +17,56 @@ const metadata = {
 
   <HeroText
     tagline="Pricing"
-    title="Stellar Pricing for Every Journey"
-    subtitle="Choose the perfect plan that aligns with your cosmic goals."
+    title="Transparent Pricing — Custom Projects"
+    subtitle="Get a quote for custom web, mobile, or game development from VNDEVS. Pricing aligned with your needs, clear value."
   />
 
   <!-- Pricing Widget ******************* -->
 
   <Prices
-    title="Our prices"
-    subtitle="Only pay for what you need"
-    prices={[
-      {
-        title: 'basic',
-        subtitle: 'Optimal choice for personal use',
-        price: 29,
-        period: 'per month',
-        items: [
-          {
-            description: 'Etiam in libero, et volutpat',
-          },
-          {
-            description: 'Aenean ac nunc dolor tristique',
-          },
-          {
-            description: 'Cras scelerisque accumsan lib',
-          },
-          {
-            description: 'In hac habitasse',
-          },
-        ],
-        callToAction: {
-          target: '_blank',
-          text: 'Get started',
-          href: '#',
-        },
-      },
-      {
-        title: 'standard',
-        subtitle: 'Optimal choice for small teams',
-        price: 69,
-        period: 'Per Month',
-        items: [
-          {
-            description: 'Proin vel laoreet',
-          },
-          {
-            description: 'Ut efficitur habitasse egestas',
-          },
-          {
-            description: 'Volutpat hac curabitur',
-          },
-          {
-            description: 'Pellentesque blandit ut nibh',
-          },
-          {
-            description: 'Donec fringilla sem',
-          },
-        ],
-        callToAction: {
-          target: '_blank',
-          text: 'Get started',
-          href: '#',
-        },
-        hasRibbon: true,
-        ribbonTitle: 'popular',
-      },
-      {
-        title: 'premium',
-        subtitle: 'Optimal choice for companies',
-        price: 199,
-        period: 'Per Month',
-        items: [
-          {
-            description: 'Curabitur suscipit risus',
-          },
-          {
-            description: 'Aliquam habitasse malesuada',
-          },
-          {
-            description: 'Suspendisse sit amet blandit',
-          },
-          {
-            description: 'Suspendisse auctor blandit dui',
-          },
-        ],
-        callToAction: {
-          target: '_blank',
-          text: 'Get started',
-          href: '#',
-        },
-      },
-    ]}
-  />
+    title="Pricing — Tailored for You"
+    subtitle="VNDEVS offers scoped packages and hourly options for every budget and ambition."
+    prices={[{
+      title: 'Startup',
+      subtitle: 'For MVPs, design, or rapid launches',
+      price: 990,
+      period: 'per project',
+      items: [
+        { description: 'Consultation & Project Scope' },
+        { description: 'Design, Build & Launch' },
+        { description: 'QA & Support' },
+      ],
+      callToAction: { text: 'Get started', href: '/contact' },
+    },
+    {
+      title: 'Business',
+      subtitle: 'Full-featured custom apps or games',
+      price: 5990,
+      period: 'per project',
+      items: [
+        { description: 'Includes everything in Startup' },
+        { description: 'Full-stack development' },
+        { description: 'Advanced integrations' },
+        { description: 'Ongoing maintenance' },
+      ],
+      hasRibbon: true,
+      ribbonTitle: 'Most Popular',
+      callToAction: { text: 'Contact Us', href: '/contact' },
+    },
+    {
+      title: 'Enterprise',
+      subtitle: 'Long-term partnership, all-in support',
+      price: 19900,
+      period: 'per project / contract',
+      items: [
+        { description: 'Custom solutions, consulting, and dedicated support' },
+        { description: 'Large scale or complex deployments' },
+        { description: 'Best-in-class security & compliance' },
+      ],
+      callToAction: { text: 'Talk to Sales', href: '/contact' },
+    }]
+}
+/>
 
   <!-- Features3 Widget ************** -->
 
