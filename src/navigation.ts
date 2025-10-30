@@ -15,7 +15,7 @@ export const headerData = {
         //   href: getPermalink('/homes/startup'),
         // },
         {
-          text: 'Mobile App',
+          text: 'Mobile Apps',
           href: getPermalink('/homes/mobile-app'),
         },
         {
@@ -23,7 +23,7 @@ export const headerData = {
           href: getPermalink('/homes/mobile-app'),
         },
         {
-          text: 'SAAS',
+          text: 'SaaS',
           href: getPermalink('/homes/saas'),
         },
         // {
