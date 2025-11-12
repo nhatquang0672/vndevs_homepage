@@ -12,6 +12,20 @@ metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
 
+[![Get it on SERVICE](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/play.svg)](https://example.com/...)
+<a href="https://example.com/...">
+  <img 
+    src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/play.svg" 
+    alt="Get it on SERVICE" 
+    style="width:180px; height:auto;"
+  />
+</a>
+  <img 
+    src="src/assets/images/tvkdh5/app-store.png"
+    alt="Get it on SERVICE" 
+  />
+
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Nostra torquent consequat volutpat aliquet neque

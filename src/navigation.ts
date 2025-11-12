@@ -15,16 +15,16 @@ export const headerData = {
         //   href: getPermalink('/homes/startup'),
         // },
         {
-          text: 'Mobile Apps',
-          href: getPermalink('/homes/mobile-app'),
-        },
-        {
-          text: 'Games',
-          href: getPermalink('/homes/mobile-app'),
+          text: 'Web Application',
+          href: getPermalink('/solutions'),
         },
         {
           text: 'SaaS',
-          href: getPermalink('/homes/saas'),
+          href: getPermalink('/saas'),
+        },
+        {
+          text: 'Mobile App',
+          href: getPermalink('/mobile-app'),
         },
         // {
         //   text: 'Personal',
@@ -32,6 +32,28 @@ export const headerData = {
         // },
       ]
     },
+    {
+      text: 'Games',
+      links: [
+        {
+          text: 'Blog List',
+          href: getBlogPermalink(),
+        },
+        {
+          text: 'Game Online',
+          href: getPermalink('game-online', 'category'),
+        },
+        {
+          text: 'Source Code',
+          href: getPermalink('source-code', 'category'),
+        },
+        // {
+        //   text: 'Game Source Code',
+        //   href: getPermalink('astro', 'tag'),
+        // },
+      ],
+    },
+
     {
       text: 'Pricing',
       href: getPermalink('/pricing'),
@@ -51,7 +73,7 @@ export const headerData = {
       // ],
     },
     {
-      text: "About Us", 
+      text: "About Us",
       links: [
         {
           text: 'About',
@@ -70,7 +92,7 @@ export const headerData = {
           href: getPermalink('/privacy'),
         },
       ],
-    }
+    },
     // {
     //   text: 'Landing',
     //   links: [

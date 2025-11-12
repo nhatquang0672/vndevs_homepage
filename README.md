@@ -22,6 +22,23 @@ Our portfolio has included:
 - Educational and health-tech systems
 - Add your next innovative idea here!
 
+
+## Category
+- Game Online 
+- Source Game
+
+## Tag
+- game-h5
+- game-mobile
+- h5, html5, mobile
+- full-source
+- viet-hoa
+- china
+- build
+
+
+
+
 ## How We Work With You
 1. Consultation and roadmap — understand your needs
 2. Project design & architecture
