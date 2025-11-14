@@ -12,20 +12,42 @@ tags:
   - mobile-web
   - viet-hoa
 titleFont: font-xianxiacontent
-<!-- contentFont: font-xianxiacontent -->
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
 
-<div style="max-width: 100%; margin: 0 auto; padding: 0 20px; text-align: center; line-height: 1.8; font-size: 28px; color: #f1f5f9;">
-  <a href="https://example.com/..." style="display: inline-block; margin-bottom: 20px;">
-    <img 
-      src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/play.svg" 
-      alt="Chơi Ngay" 
-      style="width:220px; height:auto; display:block; margin: 0 auto;"
-    />
+<div style="
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+">
+  <a href="https://example.com/..."
+     style="
+      display: inline-block;
+      width: 100%;
+      max-width: 380px;
+      padding: 16px 20px;
+      font-size: clamp(20px, 5vw, 32px);
+      font-weight: bold;
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+      background: linear-gradient(90deg, #d4a017, #f5d66f);
+      border-radius: 999px;
+      box-shadow: 0 0 20px rgba(255, 211, 80, 0.7), 0 0 40px rgba(255, 211, 80, 0.5);
+      text-shadow: 0 0 8px rgba(0,0,0,0.6);
+      transition: transform 0.15s ease;
+      -webkit-tap-highlight-color: transparent;
+    "
+    onmouseover="this.style.transform='scale(1.05)'"
+    onmouseout="this.style.transform='scale(1)'"
+  >
+    ⚡ PLAY NOW
   </a>
 </div>
+
+
 
 ## ⚔️ Full H5 Game Backend + Admin System  
 #### Production-Ready Server & Admin Panel — Powered by TypeScript, MongoDB & Docker

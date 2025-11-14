@@ -15,19 +15,65 @@ contentFont: font-xianxiacontent
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
-
-<div style="max-width: 100%; margin: 0 auto; padding: 0 20px; text-align: center; line-height: 1.8; font-size: 28px; color: #f1f5f9;">
-  <a href="https://example.com/..." style="display: inline-block; margin-bottom: 20px;">
-    <img 
-      src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/play.svg" 
-      alt="Chơi Ngay" 
-      style="width:220px; height:auto; display:block; margin: 0 auto;"
-    />
+<div style="
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+">
+  <a href="https://example.com/..."
+     style="
+      display: inline-block;
+      width: 100%;
+      max-width: 380px;
+      padding: 16px 20px;
+      font-size: clamp(20px, 5vw, 32px);
+      font-weight: bold;
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+      background: linear-gradient(90deg, #d4a017, #f5d66f);
+      border-radius: 999px;
+      box-shadow: 0 0 20px rgba(255, 211, 80, 0.7), 0 0 40px rgba(255, 211, 80, 0.5);
+      text-shadow: 0 0 8px rgba(0,0,0,0.6);
+      transition: transform 0.15s ease;
+      -webkit-tap-highlight-color: transparent;
+    "
+    onmouseover="this.style.transform='scale(1.05)'"
+    onmouseout="this.style.transform='scale(1)'"
+  >
+    ⚡ PLAY NOW
   </a>
 </div>
 
-Fellow cultivator! Join <strong>Tiên Vấn Kiếm Đạo H5</strong> and step into a vast world of Xianxia, where you can collect precious treasures, enhance your strength, train loyal pets, and conquer fierce arenas. Battle relentlessly, level up at lightning speed, and experience a host of exciting PvE & PvP features!
+Fellow cultivator! ⚔️ Step into the **vast and mystical world of Tiên Vấn Kiếm Đạo H5** and begin your journey in the legendary realm of Xianxia.  
+Here, every decision shapes your destiny — collect powerful treasures, train loyal companions, and rise to the top as a legendary cultivator.
 
+### 🌟 Explore a World Full of Adventures
+- **PvE Quests & Dungeons** – Challenge mighty monsters, explore hidden realms, and complete epic missions to gather rare resources.  
+- **PvP Arenas & Tournaments** – Test your skills against other players, climb the leaderboard, and prove you are the ultimate cultivator.  
+- **Treasure Hunting & Loot** – Discover mystical artifacts, rare items, and magical treasures to strengthen your cultivation journey.  
+
+### 💪 Strengthen Your Character
+- **Level Up Fast** – Grow your power quickly with daily challenges, experience bonuses, and skill upgrades.  
+- **Master Skills & Abilities** – Unlock and combine powerful abilities to dominate in battles.  
+- **Custom Cultivation Path** – Tailor your character’s growth with unique cultivation techniques and strategies.  
+
+### 🐉 Train Loyal Companions
+- **Pet System** – Raise pets to fight alongside you, provide unique buffs, and assist in both PvE and PvP battles.  
+- **Evolve & Upgrade Pets** – Improve your pets’ abilities to keep up with your growing strength.  
+
+### 🏆 Participate in Events & Guilds
+- **Daily & Weekly Events** – Engage in special events for exclusive rewards and rare collectibles.  
+- **Guilds & Alliances** – Form alliances with other cultivators, tackle powerful bosses, and dominate territories together.  
+
+### ⚔️ Experience the Ultimate Xianxia Life
+- Immerse yourself in a world of magic, martial arts, and legendary battles.  
+- Encounter hidden secrets, mystical artifacts, and challenges that push your skills to the limit.  
+- Enjoy a seamless blend of **PvE adventures**, **PvP duels**, and strategic cultivation management.  
+
+Prepare yourself for epic battles, rapid growth, and a journey full of mystery and excitement. 🌌  
+Your destiny in **Tiên Vấn Kiếm Đạo H5** starts now — cultivate, conquer, and become a legend!
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/src/assets/images/tvkdh5/1.png" alt="Image 1" style="width: 48%; height: auto;" />
