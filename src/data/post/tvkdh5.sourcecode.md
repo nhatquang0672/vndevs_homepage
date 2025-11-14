@@ -12,7 +12,7 @@ tags:
   - mobile-web
   - viet-hoa
 titleFont: font-xianxiacontent
-contentFont: font-xianxiacontent
+<!-- contentFont: font-xianxiacontent -->
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
@@ -27,8 +27,101 @@ metadata:
   </a>
 </div>
 
-Fellow cultivator! Join <strong>Tiên Vấn Kiếm Đạo H5</strong> and step into a vast world of Xianxia, where you can collect precious treasures, enhance your strength, train loyal pets, and conquer fierce arenas. Battle relentlessly, level up at lightning speed, and experience a host of exciting PvE & PvP features!
+## ⚔️ Full H5 Game Backend + Admin System  
+#### Production-Ready Server & Admin Panel — Powered by TypeScript, MongoDB & Docker
 
+This package provides a **complete backend solution** for running a commercial H5 web game.  
+You get full ownership of the **server source code** and **admin panel source code**, plus the compiled **H5 client build** ready for deployment.
+
+Perfect for publishers, operators, and developers who want a stable, scalable H5 game with professional management tools.
+
+---
+
+### 🔥 What’s Included
+
+#### **1. H5 Game Client (Compiled Build)**
+- Production-ready JavaScript build  
+- Fast loading, optimized for mobile browsers  
+- Easy to deploy on any static hosting or CDN  
+- Compatible with the provided backend out of the box  
+
+> *Note: Client source code is not included — only the final compiled build.*
+
+---
+
+### **2. Game Server — Full TypeScript Source Code**
+A clean, modular, production-tested backend written in **TypeScript**, including:
+
+- Account system & authentication  
+- Player profile, inventory, items  
+- Combat logic & in-game events  
+- Missions, daily/weekly tasks, rewards  
+- Ranking, guilds/clans (if supported)  
+- Gift code system  
+- Logging & analytics hooks  
+- Anti-cheat safeguards  
+- REST API structure, easily extendable  
+
+**Database:** MongoDB  
+**Deployment:** Native / Node.js / PM2 / Docker  
+
+---
+
+### **3. Admin Panel — Full TypeScript Source Code**
+A full-featured GM/Admin management portal:
+
+- Player search, ban/unban, adjustments  
+- Mail & gift package distribution  
+- Manage items, events, drop tables  
+- Dashboard & data overview  
+- Log viewer  
+- Multi-role permission system  
+
+Built using modern **TypeScript**, clean UI and easy-to-extend architecture.
+
+---
+
+### ⚙️ Tech Stack
+
+- **TypeScript** – clean, strongly typed backend  
+- **Node.js** – stable, high-performance server runtime  
+- **MongoDB** – scalable NoSQL database for game data  
+- **Docker-ready** – simple, fast deployment  
+- **JavaScript H5 Client** – optimized, production build  
+
+---
+
+### ⭐ Why Choose This Package?
+
+#### ✔️ Commercial Grade
+Originally deployed in a real production environment with active players.
+
+#### ✔️ Complete System
+Back-end + admin tools + client build = launch immediately.
+
+#### ✔️ Easy to Customize
+The TypeScript server is designed with a clear service structure.  
+You can modify features, add new gameplay content, or integrate payment easily.
+
+#### ✔️ Fast Deployment
+MongoDB + Node + Docker = ready to go in minutes.
+
+---
+
+### 📦 You Receive
+
+- Full **server source code** (TypeScript)  
+- Full **admin panel source code** (TypeScript)  
+- Compiled **H5 client build** (JavaScript)  
+- Docker configs  
+- Environment sample files  
+- Setup & deployment instructions  
+- Optional support for integration or customization  
+
+---
+
+### 💬 Need modifications or help deploying?
+I can help customize features, extend the admin panel, or integrate new game content.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/src/assets/images/tvkdh5/1.png" alt="Image 1" style="width: 48%; height: auto;" />
