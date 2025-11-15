@@ -37,7 +37,7 @@ export const headerData = {
     //   ]
     // },
     {
-      text: 'Games',
+      text: 'Products',
       links: [
         {
           text: 'All Resources',
