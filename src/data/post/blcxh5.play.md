@@ -85,16 +85,16 @@ Prepare yourself for relentless battles, thrilling dodges, and explosive power-u
 Your journey in **Bách Luyện Thành Tiên H5** is just beginning — rise, survive, and ascend to immortality!
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/src/assets/images/blcxh5/1.png" alt="Image 1" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/2.png" alt="Image 2" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/3.png" alt="Image 3" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/4.png" alt="Image 4" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/5.png" alt="Image 5" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/6.png" alt="Image 6" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/7.png" alt="Image 7" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/8.png" alt="Image 8" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/9.png" alt="Image 9" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/10.png" alt="Image 10" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/11.png" alt="Image 9" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/blcxh5/12.png" alt="Image 10" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/1.png" alt="Image 1" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/2.png" alt="Image 2" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/3.png" alt="Image 3" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/4.png" alt="Image 4" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/5.png" alt="Image 5" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/6.png" alt="Image 6" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/7.png" alt="Image 7" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/8.png" alt="Image 8" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/9.png" alt="Image 9" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/10.png" alt="Image 10" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/11.png" alt="Image 11" style="width: 48%; height: auto;" />
+  <img src="/images/blcxh5/12.png" alt="Image 12" style="width: 48%; height: auto;" />
 </div>

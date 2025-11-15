@@ -146,14 +146,14 @@ MongoDB + Node + Docker = ready to go in minutes.
 I can help customize features, extend the admin panel, or integrate new game content.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/src/assets/images/tvkdh5/1.png" alt="Image 1" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/tvkdh5/2.png" alt="Image 2" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/tvkdh5/3.png" alt="Image 3" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/tvkdh5/4.png" alt="Image 4" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/tvkdh5/5.png" alt="Image 5" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/tvkdh5/6.png" alt="Image 6" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/tvkdh5/7.png" alt="Image 7" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/tvkdh5/8.png" alt="Image 8" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/tvkdh5/9.png" alt="Image 9" style="width: 48%; height: auto;" />
-  <img src="/src/assets/images/tvkdh5/10.png" alt="Image 10" style="width: 48%; height: auto;" />
+  <img src="/images/tvkdh5/1.png" alt="Image 1" style="width: 48%; height: auto;" />
+  <img src="/images/tvkdh5/2.png" alt="Image 2" style="width: 48%; height: auto;" />
+  <img src="/images/tvkdh5/3.png" alt="Image 3" style="width: 48%; height: auto;" />
+  <img src="/images/tvkdh5/4.png" alt="Image 4" style="width: 48%; height: auto;" />
+  <img src="/images/tvkdh5/5.png" alt="Image 5" style="width: 48%; height: auto;" />
+  <img src="/images/tvkdh5/6.png" alt="Image 6" style="width: 48%; height: auto;" />
+  <img src="/images/tvkdh5/7.png" alt="Image 7" style="width: 48%; height: auto;" />
+  <img src="/images/tvkdh5/8.png" alt="Image 8" style="width: 48%; height: auto;" />
+  <img src="/images/tvkdh5/9.png" alt="Image 9" style="width: 48%; height: auto;" />
+  <img src="/images/tvkdh5/10.png" alt="Image 10" style="width: 48%; height: auto;" />
 </div>

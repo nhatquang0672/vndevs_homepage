@@ -4,7 +4,7 @@ export const headerData = {
   links: [
     {
       text: 'Solutions',
-      href: getPermalink('/solutions'),
+      href: getPermalink('/'),
     },
     {
       text: 'Services',
@@ -15,15 +15,15 @@ export const headerData = {
         //   href: getPermalink('/homes/startup'),
         // },
         {
-          text: 'Web Application',
+          text: 'Software Development',
           href: getPermalink('/solutions'),
         },
         {
-          text: 'SaaS',
+          text: 'Consulting & Outsourcing',
           href: getPermalink('/saas'),
         },
         {
-          text: 'Mobile App',
+          text: 'UI UX Design & Analysis',
           href: getPermalink('/mobile-app'),
         },
         // {
@@ -36,7 +36,7 @@ export const headerData = {
       text: 'Games',
       links: [
         {
-          text: 'All Games',
+          text: 'All Resources',
           href: getBlogPermalink(),
         },
         {
