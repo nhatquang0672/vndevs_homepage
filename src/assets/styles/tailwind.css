@@ -90,3 +90,20 @@
 .dd *:first-child {
   margin-top: 0;
 }
+
+@font-face {
+  font-family: 'Xianxia';
+  src: url('/fonts/fz-title.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'XianxiaContent';
+  /* src: url('/fonts/ShadowsIntoLight-Regular.ttf') format('truetype'); */
+  src: url('/fonts/Fz-GameBr-V2.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

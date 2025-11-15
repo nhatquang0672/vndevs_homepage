@@ -1,0 +1,201 @@
+
+---
+import CallToAction from '~/components/widgets/CallToAction.astro';
+import Content from '~/components/widgets/Content.astro';
+import Features2 from '~/components/widgets/Features2.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Testimonials from '~/components/widgets/Testimonials.astro';
+import Layout from '~/layouts/PageLayout.astro';
+
+const metadata = {
+  title: 'Services',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="Services"
+    title="Accelerate your business with VNDEVS"
+    subtitle="We specialize in custom software development, consulting & outsourcing solutions, and UI/UX design analysis to help your business operate smarter and scale faster."
+    actions={[{ variant: 'primary', target: '_blank', text: 'Get a quote', href: '/contact' }]}
+    image={{ src: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1740&q=80', alt: 'VNDEVS Services Hero Image' }}
+  />
+
+  <!-- Features2 Widget ************** -->
+
+  <Features2
+    title="Our Core Expertise"
+    subtitle="VNDEVS delivers high-quality digital solutions across industries—fast, reliable, and tailored to your business goals."
+    columns={3}
+    items={[
+      {
+        title: 'Custom Software Development',
+        description:
+          'We build high-performance web apps, mobile apps, SaaS platforms, backend systems, and business tools tailored to your exact needs.',
+        icon: 'tabler:device-laptop',
+      },
+      {
+        title: 'Consulting & Outsourcing',
+        description:
+          'From technical advisory to dedicated remote teams, we support your long-term business growth with scalable talent and strategic guidance.',
+        icon: 'tabler:users',
+      },
+      {
+        title: 'UI/UX Design & Product Analysis',
+        description:
+          'We design intuitive interfaces, analyze user behavior, and refine product flows to create seamless, impactful user experiences.',
+        icon: 'tabler:palette',
+      },
+      {
+        title: 'System Architecture',
+        description:
+          'Modern, secure, cloud-ready architecture designed for scalability and high availability. Perfect for fast-growing products.',
+        icon: 'tabler:building-arch',
+      },
+      {
+        title: 'E-commerce & ERP Solutions',
+        description:
+          'We build sales platforms, inventory systems, and internal management tools that streamline operations and boost revenue.',
+        icon: 'tabler:shopping-cart',
+      },
+      {
+        title: 'Game Development Support',
+        description:
+          'VNDEVS provides tool development, automation, backend services, analytics integration, and content pipelines for game studios.',
+        icon: 'tabler:device-gamepad',
+      },
+      {
+        title: 'API & Integrations',
+        description:
+          'We design and integrate modern APIs, payment gateways, CRM/ERP systems, and third-party services to power your ecosystem.',
+        icon: 'tabler:plug-connected',
+      },
+      {
+        title: 'Maintenance & Long-term Support',
+        description:
+          'Ensure your product runs smoothly with proactive monitoring, bug fixes, updates, and performance optimization.',
+        icon: 'tabler:heartbeat',
+      },
+      {
+        title: 'Product Modernization',
+        description:
+          'Upgrade legacy systems, redesign old interfaces, and migrate your product to modern frameworks for better performance.',
+        icon: 'tabler:refresh',
+      },
+    ]}
+  />
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    isReversed
+    items={[
+      { title: 'End-to-End Development', description: 'From idea to deployment, we handle architecture, development, design, QA, and launch.' },
+      { title: 'Industry-Proven Expertise', description: 'We build reliable solutions for startups, SMEs, and large enterprises.' },
+      { title: 'Scalable & Maintainable Codebase', description: 'We follow clean architecture, testing standards, and performance-first development.' },
+      { title: 'Transparent Partnership', description: 'You get clear communication, predictable timelines, and a dedicated delivery team.' }
+    ]}
+    image={{ src: 'https://images.unsplash.com/photo-1525909002-1b05e0c869d8?auto=format&fit=crop&w=870&q=80', alt: 'VNDEVS Team at work' }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Why VNDEVS?</h3>
+    </Fragment>
+  </Content>
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    isAfterContent
+    items={[
+      {
+        title: 'Faster Delivery',
+        description:
+          'Efficient processes, strong technical experience, and reusable components allow us to deliver faster without compromising quality.',
+        icon: 'tabler:clock',
+      },
+      {
+        title: 'Exceptional User Experience',
+        description:
+          'UI/UX decisions are backed by research and analysis—ensuring your product feels intuitive, modern, and delightful to use.',
+        icon: 'tabler:layout',
+      },
+      {
+        title: 'Cost-Effective Scaling',
+        description:
+          'Outsourcing with VNDEVS provides predictable costs, access to senior developers, and flexible team sizing based on your needs.',
+        icon: 'tabler:coin',
+      },
+      {
+        title: 'Instant Team Availability',
+        description:
+          'Quick onboarding and ready-to-go talent help your project move forward without delays.',
+        icon: 'tabler:rocket',
+      },
+    ]}
+    image={{
+      src: 'https://images.unsplash.com/photo-1552664688-cf412ec27db2?auto=format&fit=crop&w=774&q=80',
+      alt: 'Benefits Image',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Benefits</h3>
+    </Fragment>
+  </Content>
+
+  <!-- Testimonials Widget *********** -->
+
+  <Testimonials
+    title="What our clients say"
+    testimonials={[
+      {
+        testimonial: `VNDEVS helped us build and scale our platform much faster than expected. Their communication, speed, and software expertise made them a strategic long-term partner.`,
+        name: 'Emily Kennedy',
+        job: 'Product Manager',
+        image: {
+          src: 'https://images.unsplash.com/photo-1618835962148-cf177563c6c0?auto=format&fit=crop&w=930&q=80',
+          alt: 'Emily Kennedy Image',
+        },
+      },
+      {
+        testimonial: `Their UI/UX analysis transformed our product experience. User engagement improved noticeably after applying their design recommendations.`,
+        name: 'Sarah Hansen',
+        job: 'Startup Founder',
+        image: {
+          src: 'https://images.unsplash.com/photo-1561406636-b80293969660?auto=format&fit=crop&w=774&q=80',
+          alt: 'Sarah Hansen Image',
+        },
+      },
+      {
+        testimonial: `Reliable outsourcing partner. VNDEVS provided skilled developers who integrated seamlessly with our internal team.`,
+        name: 'Mark Wilkinson',
+        job: 'CTO',
+        image: {
+          src: 'https://images.unsplash.com/photo-1545167622-3a6ac756afa4?auto=format&fit=crop&w=824&q=80',
+          alt: 'Mark Wilkinson Image',
+        },
+      },
+    ]}
+    callToAction={{
+      target: '_blank',
+      text: 'More testimonials...',
+      href: '/contact',
+      icon: 'tabler:chevron-right',
+    }}
+  />
+
+  <!-- CallToAction Widget *********** -->
+
+  <CallToAction
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Start your project',
+        href: '/contact',
+      },
+    ]}
+    title="Work with VNDEVS today"
+    subtitle="Whether you need custom software, expert consulting, or refined UI/UX design — we’re ready to bring your vision to life."
+  />
+</Layout>

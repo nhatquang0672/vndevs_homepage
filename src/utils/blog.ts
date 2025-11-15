@@ -53,6 +53,8 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     tags: rawTags = [],
     category: rawCategory,
     author,
+    titleFont,
+    contentFont,
     draft = false,
     metadata = {},
   } = data;
@@ -63,9 +65,9 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
 
   const category = rawCategory
     ? {
-        slug: cleanSlug(rawCategory),
-        title: rawCategory,
-      }
+      slug: cleanSlug(rawCategory),
+      title: rawCategory,
+    }
     : undefined;
 
   const tags = rawTags.map((tag: string) => ({
@@ -90,6 +92,9 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     author: author,
 
     draft: draft,
+
+    titleFont: titleFont,
+    contentFont: contentFont,
 
     metadata,
 
