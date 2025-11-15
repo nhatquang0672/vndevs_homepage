@@ -36,7 +36,7 @@ export const headerData = {
       text: 'Games',
       links: [
         {
-          text: 'All posts',
+          text: 'All Games',
           href: getBlogPermalink(),
         },
         {
@@ -44,13 +44,9 @@ export const headerData = {
           href: getPermalink('game-online', 'category'),
         },
         {
-          text: 'Game Source Code',
+          text: 'Source Code',
           href: getPermalink('source-code', 'category'),
         },
-        // {
-        //   text: 'Game Source Code',
-        //   href: getPermalink('astro', 'tag'),
-        // },
       ],
     },
 
