@@ -21,7 +21,7 @@ metadata:
   justify-content: center;
   margin: 30px 0;
 ">
-  <a href="https://example.com/..."
+  <a href="https://vndevs.com"
      style="
       display: inline-block;
       width: 100%;
