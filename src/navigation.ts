@@ -47,10 +47,10 @@ export const headerData = {
           text: 'Game Online',
           href: getPermalink('game-online', 'category'),
         },
-        {
-          text: 'Source Code',
-          href: getPermalink('source-code', 'category'),
-        },
+        // {
+        //   text: 'Source Code',
+        //   href: getPermalink('source-code', 'category'),
+        // },
       ],
     },
 

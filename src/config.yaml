@@ -1,6 +1,6 @@
 site:
   name: VNDEVS
-  site: 'https://astrowind.vercel.app'
+  site: 'https://vndevs.com'
   base: '/'
   trailingSlash: false
 

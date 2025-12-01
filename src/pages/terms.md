@@ -21,7 +21,7 @@ For the purposes of these Terms and Conditions:
 
 - **Country** refers to: California, United States
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to VNDEVS, 123 YourAddress, Ho Chi Minh City, Vietnam.
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to VNDEVS, Ho Chi Minh City, Vietnam.
 
 - **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
