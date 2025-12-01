@@ -225,7 +225,7 @@ export const footerData = {
       title: 'Products & Services',
       links: [
         { text: 'Software Development', href: '/services' },
-        { text: 'Game Hosting', href: '/games' },
+        // { text: 'Game Hosting', href: '/games' },
         { text: 'UI/UX Design & Analysis', href: '/services' },
         { text: 'Consulting & Outsourcing', href: '/services' },
         { text: 'Pricing', href: '/pricing' },
