@@ -1,4 +1,3 @@
-
 ---
 publishDate: 2025-11-15T00:00:00Z
 title: 'VNDEVS: Software, Games, and Digital Solutions Showcase'

@@ -1,9 +1,8 @@
-
 ---
 publishDate: 2025-11-11T00:00:00Z
 author: VNDEVS
 title: Tiên Vấn Kiếm Đạo H5
-image: "./tvkdh5.background.png"
+image: './tvkdh5.background.png'
 category: Game-Online
 tags:
   - game-h5
@@ -15,6 +14,7 @@ contentFont: font-xianxiacontent
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
+
 <div style="
   width: 100%;
   display: flex;
@@ -50,37 +50,44 @@ Fellow cultivator! ⚔️ Step into the **vast and mystical world of Tiên Vấn
 Here, every decision shapes your destiny — collect powerful treasures, train loyal companions, and rise to the top as a legendary cultivator.
 
 ### <span class="font-xianxiacontent">Explore a World Full of Adventures</span>
-- **PvE Quests & Dungeons** – Challenge mighty monsters, explore hidden realms, and complete epic missions to gather rare resources.  
-- **PvP Arenas & Tournaments** – Test your skills against other players, climb the leaderboard, and prove you are the ultimate cultivator.  
-- **Treasure Hunting & Loot** – Discover mystical artifacts, rare items, and magical treasures to strengthen your cultivation journey.  
+
+- **PvE Quests & Dungeons** – Challenge mighty monsters, explore hidden realms, and complete epic missions to gather rare resources.
+- **PvP Arenas & Tournaments** – Test your skills against other players, climb the leaderboard, and prove you are the ultimate cultivator.
+- **Treasure Hunting & Loot** – Discover mystical artifacts, rare items, and magical treasures to strengthen your cultivation journey.
 
 ### <span class="font-xianxiacontent">🎮 Idle Xianxia • Clicker RPG • Menu-Based Adventure</span>
+
 **Tiên Vấn Kiếm Đạo H5** belongs to the **Idle Xianxia / Clicker RPG** genre — perfect for players who enjoy **progressing by tapping icons, collecting resources, and upgrading through menus** instead of direct character movement.
 
 Gameplay is centered around:
-- **Clicking main-screen icons** to gather items, resources, EXP, and treasures  
-- **Opening menus** to upgrade, break through realms, or battle challenges  
-- **Auto combat & auto-progress systems**  
-- **Fast-paced rewards with minimal controls**  
+
+- **Clicking main-screen icons** to gather items, resources, EXP, and treasures
+- **Opening menus** to upgrade, break through realms, or battle challenges
+- **Auto combat & auto-progress systems**
+- **Fast-paced rewards with minimal controls**
 - **This game focuses on **growth, collecting, cultivating power, and managing resources**, not action movement**
 
 ### <span class="font-xianxiacontent">💪 Strengthen Your Character</span>
-- **Level Up Fast** – Grow your power quickly with daily challenges, experience bonuses, and skill upgrades.  
-- **Master Skills & Abilities** – Unlock and combine powerful abilities to dominate in battles.  
-- **Custom Cultivation Path** – Tailor your character’s growth with unique cultivation techniques and strategies.  
+
+- **Level Up Fast** – Grow your power quickly with daily challenges, experience bonuses, and skill upgrades.
+- **Master Skills & Abilities** – Unlock and combine powerful abilities to dominate in battles.
+- **Custom Cultivation Path** – Tailor your character’s growth with unique cultivation techniques and strategies.
 
 ### <span class="font-xianxiacontent">🐉 Train Loyal Companions</span>
-- **Pet System** – Raise pets to fight alongside you, provide unique buffs, and assist in both PvE and PvP battles.  
-- **Evolve & Upgrade Pets** – Improve your pets’ abilities to keep up with your growing strength.  
+
+- **Pet System** – Raise pets to fight alongside you, provide unique buffs, and assist in both PvE and PvP battles.
+- **Evolve & Upgrade Pets** – Improve your pets’ abilities to keep up with your growing strength.
 
 ### <span class="font-xianxiacontent">🏆 Participate in Events & Guilds</span>
-- **Daily & Weekly Events** – Engage in special events for exclusive rewards and rare collectibles.  
-- **Guilds & Alliances** – Form alliances with other cultivators, tackle powerful bosses, and dominate territories together.  
+
+- **Daily & Weekly Events** – Engage in special events for exclusive rewards and rare collectibles.
+- **Guilds & Alliances** – Form alliances with other cultivators, tackle powerful bosses, and dominate territories together.
 
 ### <span class="font-xianxiacontent">⚔️ Experience the Ultimate Xianxia Life</span>
-- Immerse yourself in a world of magic, martial arts, and legendary battles.  
-- Encounter hidden secrets, mystical artifacts, and challenges that push your skills to the limit.  
-- Enjoy a seamless blend of **PvE adventures**, **PvP duels**, and strategic cultivation management.  
+
+- Immerse yourself in a world of magic, martial arts, and legendary battles.
+- Encounter hidden secrets, mystical artifacts, and challenges that push your skills to the limit.
+- Enjoy a seamless blend of **PvE adventures**, **PvP duels**, and strategic cultivation management.
 
 Prepare yourself for epic battles, rapid growth, and a journey full of mystery and excitement.
 Your destiny in **Tiên Vấn Kiếm Đạo H5** starts now — cultivate, conquer, and become a legend!

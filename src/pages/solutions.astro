@@ -18,8 +18,10 @@ const metadata = {
     tagline="Services"
     title="Empower your business with VNDEVS solutions"
     subtitle="VNDEVS builds world-class software, mobile apps, and games. Discover how we deliver for your industry or challenge."
-    <!-- actions={[{ variant: 'primary', target: '_blank', text: 'Get a quote', href: '/contact' }]} -->
-    image={{ src: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80', alt: 'VNDEVS Portfolio Hero Image' }}
+    image={{
+      src: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80',
+      alt: 'VNDEVS Portfolio Hero Image',
+    }}
   />
 
   <!-- Features2 Widget ************** -->
@@ -89,12 +91,29 @@ const metadata = {
   <Content
     isReversed
     items={[
-      { title: 'Award-Winning Designs', description: 'Our projects are recognized for innovation, usability, and visual excellence, ensuring your product stands out.' },
-      { title: 'Custom Tailored Solutions', description: 'We develop to your needs: scalable SaaS, beautiful apps for your users.' },
-      { title: 'Reliable Delivery', description: 'Proven process from idea to launch: scope, build, launch, and support. VNDEVS is your trusted implementation agent.' },
-      { title: 'Transparent Collaboration', description: 'Clear communication, no surprises. Your goals are our deliverables.' }
+      {
+        title: 'Award-Winning Designs',
+        description:
+          'Our projects are recognized for innovation, usability, and visual excellence, ensuring your product stands out.',
+      },
+      {
+        title: 'Custom Tailored Solutions',
+        description: 'We develop to your needs: scalable SaaS, beautiful apps for your users.',
+      },
+      {
+        title: 'Reliable Delivery',
+        description:
+          'Proven process from idea to launch: scope, build, launch, and support. VNDEVS is your trusted implementation agent.',
+      },
+      {
+        title: 'Transparent Collaboration',
+        description: 'Clear communication, no surprises. Your goals are our deliverables.',
+      },
     ]}
-    image={{ src: 'https://images.unsplash.com/photo-1525909002-1b05e0c869d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80', alt: 'VNDEVS Team at work' }}
+    image={{
+      src: 'https://images.unsplash.com/photo-1525909002-1b05e0c869d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
+      alt: 'VNDEVS Team at work',
+    }}
   >
     <Fragment slot="content">
       <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Why VNDEVS?</h3>

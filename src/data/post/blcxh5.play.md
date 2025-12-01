@@ -1,9 +1,8 @@
-
 ---
 publishDate: 2025-11-11T00:00:00Z
 author: VNDEVS
 title: Bách Luyện Thành Tiên H5
-image: "./blcxh5.background.png"
+image: './blcxh5.background.png'
 category: Game-Online
 tags:
   - game-h5
@@ -15,6 +14,7 @@ contentFont: font-xianxiacontent
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
+
 <div style="
   width: 100%;
   display: flex;
@@ -50,35 +50,41 @@ Fellow cultivator! ⚔️ Step into the **chaotic and action-packed world of Bá
 In this realm, you directly control your cultivator — dodging attacks, fighting endless hordes of enemies, collecting treasures, and forging your path toward immortality.
 
 ### <span class="font-xianxiacontent">🔥 Action-Packed Gameplay • Survive the Endless Onslaught</span>
-- **Character-Control Combat** – Move freely on the battlefield, dodge enemy swarms, and unleash devastating area skills.  
-- **Hordes of Enemies** – Face waves of monsters coming from every direction, each stronger than the last.  
-- **Boss Encounters** – Conquer powerful dungeon bosses guarding rare treasures and breakthrough materials.  
+
+- **Character-Control Combat** – Move freely on the battlefield, dodge enemy swarms, and unleash devastating area skills.
+- **Hordes of Enemies** – Face waves of monsters coming from every direction, each stronger than the last.
+- **Boss Encounters** – Conquer powerful dungeon bosses guarding rare treasures and breakthrough materials.
 
 ### <span class="font-xianxiacontent">💪 Level Up, Equip, and Become Stronger</span>
-- **Dynamic Leveling System** – Gain EXP by defeating enemies and choose upgrades that shape your build.  
-- **Equipment & Gear Drops** – Collect weapons, artifacts, armor, and rare items as you progress.  
-- **Skill Enhancements** – Upgrade abilities to increase damage, range, or special effects.  
-- **Build Your Own Playstyle** – Combine skills, equipment, and buffs to create powerful combat synergies.  
+
+- **Dynamic Leveling System** – Gain EXP by defeating enemies and choose upgrades that shape your build.
+- **Equipment & Gear Drops** – Collect weapons, artifacts, armor, and rare items as you progress.
+- **Skill Enhancements** – Upgrade abilities to increase damage, range, or special effects.
+- **Build Your Own Playstyle** – Combine skills, equipment, and buffs to create powerful combat synergies.
 
 ### <span class="font-xianxiacontent">🗺️ Multiple Dungeons & Endless Challenges</span>
-- **Various Battle Maps** – Fight across forests, ruins, demon lands, and ancient secret realms.  
-- **Scaling Difficulty** – Each dungeon becomes harder as you survive longer.  
-- **Elite & Boss Battles** – Unique mechanics that require positioning and precise movement.  
+
+- **Various Battle Maps** – Fight across forests, ruins, demon lands, and ancient secret realms.
+- **Scaling Difficulty** – Each dungeon becomes harder as you survive longer.
+- **Elite & Boss Battles** – Unique mechanics that require positioning and precise movement.
 
 ### <span class="font-xianxiacontent">🤝 Friend Feature & Social Support</span>
-- **Add Friends** – Team up through support features, share gifts, and help each other progress.  
-- **No PvP** – This game focuses entirely on **PvE survival and power progression**.  
-- **No Rankings** – Progress at your own pace without competitive pressure.  
+
+- **Add Friends** – Team up through support features, share gifts, and help each other progress.
+- **No PvP** – This game focuses entirely on **PvE survival and power progression**.
+- **No Rankings** – Progress at your own pace without competitive pressure.
 
 ### <span class="font-xianxiacontent">🛒 Shop & Progression Systems</span>
-- **In-Game Shop** – Purchase buffs, items, upgrades, or resources to strengthen your cultivator.  
-- **Craft & Enhance Gear** – Use materials gained from dungeons to upgrade weapons and artifacts.  
-- **Long-Term Growth** – Keep getting stronger even when you revisit earlier dungeons.  
+
+- **In-Game Shop** – Purchase buffs, items, upgrades, or resources to strengthen your cultivator.
+- **Craft & Enhance Gear** – Use materials gained from dungeons to upgrade weapons and artifacts.
+- **Long-Term Growth** – Keep getting stronger even when you revisit earlier dungeons.
 
 ### <span class="font-xianxiacontent">⚔️ True Xianxia Survival Experience</span>
-- Run, dodge, and fight through massive waves of enemies.  
-- Discover rare loot, legendary items, and powerful skill combinations.  
-- Survive longer, grow faster, and unlock new abilities with every run.  
+
+- Run, dodge, and fight through massive waves of enemies.
+- Discover rare loot, legendary items, and powerful skill combinations.
+- Survive longer, grow faster, and unlock new abilities with every run.
 - Experience a mix of **action combat**, **roguelite growth**, and **Xianxia cultivation**.
 
 Prepare yourself for relentless battles, thrilling dodges, and explosive power-ups.  
