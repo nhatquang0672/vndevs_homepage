@@ -2,7 +2,7 @@
 publishDate: 2025-11-11T00:00:00Z
 author: VNDEVS
 title: Bách Luyện Thành Tiên H5
-image: './blcxh5.background.png'
+image: './blcxh5.png'
 category: Game-Online
 tags:
   - game-h5
@@ -12,7 +12,7 @@ tags:
 titleFont: font-xianxiacontent
 contentFont: font-xianxiacontent
 metadata:
-  canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
+  canonical: https://blcxh5.vndevs.com
 ---
 
 <div style="
