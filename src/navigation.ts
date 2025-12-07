@@ -6,10 +6,11 @@ export const headerData = {
       text: 'Home',
       href: getPermalink('/'),
     },
-    {
-      text: 'Services',
-      href: getPermalink('/services'),
-    },
+    // {
+    //   text: 'Services',
+    //   href: getPermalink('/services'),
+    // },
+
     // {
     //   text: 'Old Service',
     //   links: [
@@ -53,6 +54,20 @@ export const headerData = {
         // },
       ],
     },
+    {
+      text: 'Demo',
+      links: [
+        {
+          text: 'Demo Ecommerce',
+          href: getPermalink('https://ecommerce.vndevs.com'),
+        },
+        {
+          text: 'Demo GoCart',
+          href: getPermalink('https://titote.vndevs.com'),
+        },
+      ],
+    },
+
 
     {
       text: 'Pricing',
