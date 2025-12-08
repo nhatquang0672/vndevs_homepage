@@ -41,7 +41,7 @@ export const headerData = {
       text: 'Products',
       links: [
         {
-          text: 'All Resources',
+          text: 'Blogs',
           href: getBlogPermalink(),
         },
         {
@@ -57,18 +57,16 @@ export const headerData = {
     {
       text: 'Demo',
       links: [
-        {
-          text: 'Demo Ecommerce',
-          href: getPermalink('https://ecommerce.vndevs.com'),
-        },
+        // {
+        //   text: 'Demo Ecommerce',
+        //   href: getPermalink('https://ecommerce.vndevs.com'),
+        // },
         {
           text: 'Demo GoCart',
-          href: getPermalink('https://titote.vndevs.com'),
+          href: getPermalink('https://ecommerce.vndevs.com'),
         },
       ],
     },
-
-
     {
       text: 'Pricing',
       href: getPermalink('/pricing'),
