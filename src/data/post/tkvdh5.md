@@ -21,7 +21,7 @@ metadata:
   justify-content: center;
   margin: 30px 0;
 ">
-  <a href="https://vndevs.com"
+  <a href="https://tkvdh5.vndevs.com"
      style="
       display: inline-block;
       width: 100%;
