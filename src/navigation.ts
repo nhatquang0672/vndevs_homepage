@@ -57,13 +57,15 @@ export const headerData = {
     {
       text: 'Demo',
       links: [
-        // {
-        //   text: 'Demo Ecommerce',
-        //   href: getPermalink('https://ecommerce.vndevs.com'),
-        // },
         {
-          text: 'Demo GoCart',
+          text: 'Demo Ecommerce 1',
           href: getPermalink('https://ecommerce.vndevs.com'),
+          target: '_blank'
+        },
+        {
+          text: 'Demo Ecommerce 2',
+          href: getPermalink('https://titote.vndevs.com'),
+          target: '_blank'
         },
       ],
     },
