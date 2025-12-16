@@ -64,7 +64,7 @@ export const headerData = {
         },
         {
           text: 'Demo Ecommerce 2',
-          href: getPermalink('https://ecommerce.vndevs.com'),
+          href: getPermalink('https://titote.vndevs.com'),
           target: '_blank'
         },
       ],
